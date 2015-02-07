@@ -1,0 +1,31 @@
+===============================================================================
+Installing prerequisites:
+===============================================================================
+This program requires the "Gnu Scientific Library" and "PGPLOT" libraries.
+
+===============================================================================
+Running
+===============================================================================
+Start the program with ./raytrace
+
+Controls:
+With the "Test Images" window selected you can press the following keys:
+	f   Step time forward
+	b	Step time backward
+	g	Toggle display of numeric grids
+	q	Quit the program
+	
+
+Key:
+In the "Test Images" window
+	Red disk		Source disk
+	Yellow disk		Lenses
+	Blue curves		Critical curves
+	White curves	Caustic curves
+	White blobs		Numeric images
+	Green circles	Semi-analytic image positions
+
+In the "Test Lightcurve" window
+	White curve		Gravlens lightcurve
+	Green curve		Semi-analytic lightcurve
+	Red line		Current time
